@@ -10,5 +10,5 @@ package snake.game;
  * @author amberdawn50
  */
 public class Snake {
-    // Testing
+    // Testing 2
 }
