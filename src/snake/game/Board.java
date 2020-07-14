@@ -36,7 +36,7 @@ public class Board extends JPanel implements ActionListener {
     private boolean moveDown = false;
     
     private boolean playGame = true;
-    //Test Test
+    //Test Test 2
     
     public Board() {
          
